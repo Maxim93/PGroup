@@ -3,6 +3,5 @@ using namespace std;
 
 void main()
 {
-	FILE *ptr;
-	ptr=fopen("text.txt","w+");
+	cout<<"I hope that, Georg will fix his micro ;)";
 }
